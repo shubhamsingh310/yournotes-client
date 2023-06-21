@@ -68,7 +68,6 @@ function Register({history}) {
                             <span>I agree to the <a href="#">terms and conditions</a></span>
                         </label>
                     </div> */}
-                    
 
                     <div className="form-row final">
                         <button type="submit">Register</button>

@@ -13,7 +13,7 @@ function Navbar() {
         <div className="navbar">
             <h1>
             <HighlightIcon />
-            YourNotes
+            Keeper
             </h1>
             
         </div>
