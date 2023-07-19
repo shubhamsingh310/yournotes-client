@@ -20,7 +20,7 @@ function Navbar() {
         <div className="navbar">
             <h1>
             <HighlightIcon />
-            Keeper
+            YourNotes
             </h1>
             <div id='profile-menu' onClick={()=>setShowoptions(!showOptions)}>
                 <Avatar className="avatar-icon">{user.firstName[0]}</Avatar>
